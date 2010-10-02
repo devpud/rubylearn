@@ -10,11 +10,13 @@ def meth
   puts("Hello World")
 end
 
-def meth(name)
-  puts "Hello #{name}!"
+def meth(coolname)
+  puts "Hello #{coolname}!"
 end
 
 t= One_File.new
 t.meth("deepak")
 
 end
+
+#Wow
